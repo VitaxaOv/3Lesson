@@ -1,0 +1,15 @@
+/Users/a2/3Lesson/bin/Debug/net6.0/3Lesson
+/Users/a2/3Lesson/bin/Debug/net6.0/3Lesson.deps.json
+/Users/a2/3Lesson/bin/Debug/net6.0/3Lesson.runtimeconfig.json
+/Users/a2/3Lesson/bin/Debug/net6.0/3Lesson.dll
+/Users/a2/3Lesson/bin/Debug/net6.0/3Lesson.pdb
+/Users/a2/3Lesson/obj/Debug/net6.0/3Lesson.csproj.AssemblyReference.cache
+/Users/a2/3Lesson/obj/Debug/net6.0/3Lesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a2/3Lesson/obj/Debug/net6.0/3Lesson.AssemblyInfoInputs.cache
+/Users/a2/3Lesson/obj/Debug/net6.0/3Lesson.AssemblyInfo.cs
+/Users/a2/3Lesson/obj/Debug/net6.0/3Lesson.csproj.CoreCompileInputs.cache
+/Users/a2/3Lesson/obj/Debug/net6.0/3Lesson.dll
+/Users/a2/3Lesson/obj/Debug/net6.0/refint/3Lesson.dll
+/Users/a2/3Lesson/obj/Debug/net6.0/3Lesson.pdb
+/Users/a2/3Lesson/obj/Debug/net6.0/3Lesson.genruntimeconfig.cache
+/Users/a2/3Lesson/obj/Debug/net6.0/ref/3Lesson.dll
